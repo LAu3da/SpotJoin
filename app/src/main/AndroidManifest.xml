@@ -20,7 +20,7 @@
         <!-- Google Maps APIキーの設定 -->
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyDvv4Itt48rUYglk_d3eM8lCkYsluqUeX0" />
+            android:value="YOUR_API_KEY" />
 
         <!-- メイン画面（起動画面） -->
         <activity
